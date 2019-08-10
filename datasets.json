@@ -1,0 +1,58 @@
+[
+    {
+        "file": "11_12.csv", 
+        "id": "1112",
+        "denomination_key": "Religious Denomination",
+        "denomination_value": "CATH",
+        "num_row_skip": 2
+    },
+    {
+        "file": "12_13.csv", 
+        "id": "1213",
+        "denomination_key": "Religious Denomination",
+        "denomination_value": "Roman Catholic",
+        "num_row_skip": 2
+    },
+    {
+        "file": "13_14.csv", 
+        "id": "1314",
+        "denomination_key": "Religious DenomiNot affiliated with any denominationtion",
+        "denomination_value": "Roman Catholic",
+        "num_row_skip": 2
+    },
+    {
+        "file": "14_15.csv", 
+        "id": "1415",
+        "denomination_key": "Religious Denomination",
+        "denomination_value": "Roman Catholic",
+        "num_row_skip": 2
+    },
+    {
+        "file": "15_16.csv", 
+        "id": "1516",
+        "denomination_key": "Religious Denomination",
+        "denomination_value": "Roman Catholic",
+        "num_row_skip": 2
+    },
+    {
+        "file": "16_17.csv", 
+        "id": "1617",
+        "denomination_key": "Religious Denomination",
+        "denomination_value": "Roman Catholic",
+        "num_row_skip": 2
+    },
+    {
+        "file": "17_18.csv", 
+        "id": "1718",
+        "denomination_key": "Religious Denomination",
+        "denomination_value": "Roman Catholic",
+        "num_row_skip": 1
+    },
+    {
+        "file": "18_19.csv",
+        "id": "1819",
+        "denomination_key": "Religious Denomination",
+        "denomination_value": "CATH",
+        "num_row_skip": 1
+    }
+]
